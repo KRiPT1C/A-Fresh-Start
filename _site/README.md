@@ -1,6 +1,6 @@
 # A-Fresh-Start
 This site is basically a blank canvas for quickly building a Jekyll site.
-This is a pretty bias setup. Feel free to do with it whatever you like. I would personally start by deleting the helloworld.html file and removing the include from the index.html.
+This is a pretty bias setup. Feel free to do with it whatever you like.I would personally start by deleting the helloworld.html file and removing the include from the index.html.
 This Jekyll setup is powered by Gulp for Sass, autoprefixer, and browsersync
 A lot of credit goes to Shaky Shane and Travis Neilson. Shane mostly for the original gulpfile and Travis for the great videos that helped me make sense of it. (also the file structure in the assets directory)
 If you have found this repository it is likely due to the work that one or both of them have done. This is my 1st foray into the world of Jekyll, gulp, and sass and most of what it takes to get this site working. My development knowledge is limited but growing. If you have questions I will do my best to help but you likely already know more than I do.
