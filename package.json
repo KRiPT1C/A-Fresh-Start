@@ -1,0 +1,31 @@
+{
+  "name": "a_fresh_start",
+  "version": "1.0.0",
+  "description": "Starter site using Jekyll, Gulp, Sass, autoprefixer and browsersync.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ron Goyette",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KRiPT1C/A-Fresh-Start"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync"
+  ],
+  "bugs": {
+    "url": "https://github.com/KRiPT1C/A-Fresh-Start/issues"
+  },
+  "homepage": "https://github.com/KRiPT1C/A-Fresh-Start"
+}
