@@ -8,6 +8,9 @@ _site/
 .sass-cache/
 *.css.map
 
+### Node ###
+
+node_modules
 
 ### OSX ###
 .DS_Store
